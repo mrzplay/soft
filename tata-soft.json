@@ -1,11 +1,11 @@
 [
     {
-        "id": "8",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",
-        "name": "STAR Plus HD",
-        "clearkey": "1cbe293fdc385dac8c0d502b04f338e4:508a60ec650583798fa0214c364ae596",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_257/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579444~acl=%2fbpk-tv%2firdeto_com_Channel_257%2foutput%2f*~id=7795722001~data=hdntl~hmac=3034e4c48c7716ead79531e09cdbc5ec3264bbb80351d2052ee0d07d4307258d"
+        "id": "244",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",
+        "name": "Star Bharat HD",
+        "clearkey": "bbbc36a45c7a5ec4878e04c437853b09:ec2353b02f54483761d14567ecc15b60",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_411/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589598~acl=%2fbpk-tv%2firdeto_com_Channel_411%2foutput%2f*~id=7795722001~data=hdntl~hmac=a8785ca8f68884e69d9003d0a3a94084f8747f8e41e20a97a1c0438ad4a1623d"
     },
     {
         "id": "15",
@@ -29,23 +29,15 @@
         "name": "&tv HD",
         "clearkey": "52d409ed90e452529ca39742460629c3:90d006a6b1f4ff6a90f2b1654392c836",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_303/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651462~acl=%2fbpk-tv%2firdeto_com_Channel_303%2foutput%2f*~id=7795722001~data=hdntl~hmac=29327977748e72fa68780f749ecef2ea0815aef59fcbd302fc1ca14ace138383"
+        "cookie": "hdntl=exp=1788661615~acl=%2fbpk-tv%2firdeto_com_Channel_303%2foutput%2f*~id=7795722001~data=hdntl~hmac=6b97237ce36dc880e670b981a61f5cd815253401050010a58e42b44036007afd"
     },
     {
-        "id": "557",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12077-j9ob4gm0-v2/imageContent-12077-j9ob4gm0-m2.png",
-        "name": "Zee TV",
-        "clearkey": "2342753bf6f15002ac06026a21e903f2:8f8a83419e8bb98da71e76eb262b2e71",
-        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_182/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579473~acl=%2fbpk-tv%2firdeto_com_Channel_182%2foutput%2f*~id=7795722001~data=hdntl~hmac=454327278521b719dec8027b0a3a92246c2806deeabf5ae57a66a7ac7e06ff54"
-    },
-    {
-        "id": "52",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png",
-        "name": "Colors HD",
-        "clearkey": "27f0719986765b7eba6c470d3e94080e:b0b4e8285738927455337631ba392f6a",
-        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_299/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579478~acl=%2fbpk-tv%2firdeto_com_Channel_299%2foutput%2f*~id=7795722001~data=hdntl~hmac=3d3d155fba5a974644c3713abf6f66081d4a06f9fc93be7b0b0c49aef7dfbfa8"
+        "id": "578",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png",
+        "name": "&TV",
+        "clearkey": "7e5a8fa3ec6b5d38b2a7a482c7f66b8b:aeb09116533ca4830b4c0d0f8162bf28",
+        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_196/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589619~acl=%2fbpk-tv%2firdeto_com_Channel_196%2foutput%2f*~id=7795722001~data=hdntl~hmac=c270f016ebfba810dc52bb66169527dbb6fd289dd2bb3c33152aea10c7257bcf"
     },
     {
         "id": "543",
@@ -53,15 +45,31 @@
         "name": "Colors",
         "clearkey": "35556ab5abb65968bfac208e2e358a43:e6554bd6a7d1b6837fcda66eca412610",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_101/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579485~acl=%2fbpk-tv%2firdeto_com_Channel_101%2foutput%2f*~id=7795722001~data=hdntl~hmac=9d101cf29aedd3e0cd49ea2ab9cca4dc7917f71e99ef80c424b727413235a02f"
+        "cookie": "hdntl=exp=1788589632~acl=%2fbpk-tv%2firdeto_com_Channel_101%2foutput%2f*~id=7795722001~data=hdntl~hmac=2082441375138c78fc6022149e0fd82532f09cb54298bbd3821576204f1b6905"
     },
     {
-        "id": "523",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",
-        "name": "Zee Anmol",
-        "clearkey": "164c0214a66956899071a13afbbe6eba:e2edfddfd3a89e532b054677c7dd4007",
-        "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_826/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579512~acl=%2fbpk-tv%2firdeto_com_Channel_826%2foutput%2f*~id=7795722001~data=hdntl~hmac=72605864aa3b6ddc5cb50ba17fc6819f6340177eea4f22ab6156a252c4ac6c68"
+        "id": "551",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12060-j9o91vfc-v2/imageContent-12060-j9o91vfc-m2.png",
+        "name": "STAR Utsav",
+        "clearkey": "2ec91def75f05db9bb3a9f8fb2fe0d61:d74f478ce725b2af2d4eb10d9ba7ece9",
+        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_122/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589640~acl=%2fbpk-tv%2firdeto_com_Channel_122%2foutput%2f*~id=7795722001~data=hdntl~hmac=2e68cd9fab76bf91e01f0ba8249d028a6da39fc3bf4a2edaca7c41cb483e2add"
+    },
+    {
+        "id": "554",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12071-j9oa4gbc-v5/imageContent-12071-j9oa4gbc-m4.png",
+        "name": "Sony Pal",
+        "clearkey": "0b99991d837a5c5787a2b3984a7b92c9:5a0d6f8509cd77e9fc73caa834c37376",
+        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_193/output/manifest.mpd",
+        "cookie": ""
+    },
+    {
+        "id": "297",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png",
+        "name": "Big Magic",
+        "clearkey": "bb91f808de855a648f6071f6f6b9bbf4:70a5971f191892e80d6d234d60ba7224",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_476/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589654~acl=%2fbpk-tv%2firdeto_com_Channel_476%2foutput%2f*~id=7795722001~data=hdntl~hmac=95a57f5092aa4305e0d38f7f330f543419d61440f1fc1afa8a38201e842b86fc"
     },
     {
         "id": "51",
@@ -69,7 +77,23 @@
         "name": "Dangal",
         "clearkey": "d6f43a19d4e95776927743a80d5b518f:7a3e0bf57d56f66b0290e850bc03ff27",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_351/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651538~acl=%2fbpk-tv%2firdeto_com_Channel_351%2foutput%2f*~id=7795722001~data=hdntl~hmac=337e424e31018ac04eff72e0d9476b2ce9f1d7be53bc18ab8eb0780fe5b2df71"
+        "cookie": "hdntl=exp=1788661659~acl=%2fbpk-tv%2firdeto_com_Channel_351%2foutput%2f*~id=7795722001~data=hdntl~hmac=1888adf6f4d829a7a84cbb52490c77f7570921a794afc276514bae63041b21b5"
+    },
+    {
+        "id": "180",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-765-j5m2mbjk-v2/imageContent-765-j5m2mbjk-m2.png",
+        "name": "Anjan TV",
+        "clearkey": "a307f1c8a99b51b499541c50006c42d3:1bbfe1a144127400d3228fa36750cdd8",
+        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_370/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589663~acl=%2fbpk-tv%2firdeto_com_Channel_370%2foutput%2f*~id=7795722001~data=hdntl~hmac=c12ca8b873907595e494b2fe7aafb624efce23fe106a496d38b5318d4b76aebf"
+    },
+    {
+        "id": "818",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52945-ka1wdss8-v2/imageContent-52945-ka1wdss8-m2.png",
+        "name": "Shemaroo TV",
+        "clearkey": "ccd8f2125fb75641b3b748a5da9e7ee8:9143bc77f6d22b17283f719f6e9b888d",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_1114/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589668~acl=%2fbpk-tv%2firdeto_com_Channel_1114%2foutput%2f*~id=7795722001~data=hdntl~hmac=3ff1932f12a4448ecc3ac48a2f1f7df34d0d4d36aee480f3940a66b51dff843d"
     },
     {
         "id": "191",
@@ -77,7 +101,7 @@
         "name": "DD National",
         "clearkey": "e8ce8f7eb91b55129e90075e2bcba706:19722a0330ea44ad33a9b6185f946fd4",
         "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_140/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579555~acl=%2fbpk-tv%2firdeto_com_Channel_140%2foutput%2f*~id=7795722001~data=hdntl~hmac=67e123e74a6a166c0b3a3d766351a9fdf284c005f655d6d1f3375a70f28e13a0"
+        "cookie": "hdntl=exp=1788589680~acl=%2fbpk-tv%2firdeto_com_Channel_140%2foutput%2f*~id=7795722001~data=hdntl~hmac=37ce666fbc651d382188fec8278326b81b58afd309fe87f5d417ec876191d700"
     },
     {
         "id": "326",
@@ -85,7 +109,7 @@
         "name": "DD Kisan",
         "clearkey": "b77bf1aacc425835a43a67f9bd23b1de:6a287ccb0ce56f90066af82b7f0cb90d",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_510/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651559~acl=%2fbpk-tv%2firdeto_com_Channel_510%2foutput%2f*~id=7795722001~data=hdntl~hmac=8a4c2b35559556b2a60a343c227cc5e88eeb832d36879d9e349311704f0cac2c"
+        "cookie": "hdntl=exp=1788661684~acl=%2fbpk-tv%2firdeto_com_Channel_510%2foutput%2f*~id=7795722001~data=hdntl~hmac=4546d8fa05f1c4c94912d60a68622c98ffad357b96508e1fec61da094b3104b7"
     },
     {
         "id": "245",
@@ -93,7 +117,7 @@
         "name": "Star GOLD HD",
         "clearkey": "9e4332f746b453148b0bd0af4af4b68b:87f63eb612b43fc9fec8f6c0ed99261a",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_412/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651573~acl=%2fbpk-tv%2firdeto_com_Channel_412%2foutput%2f*~id=7795722001~data=hdntl~hmac=a8f075449859b5e0b12c2a598812b26f64b25f6a5d640fccf44a05a7ff14ea7f"
+        "cookie": "hdntl=exp=1788661694~acl=%2fbpk-tv%2firdeto_com_Channel_412%2foutput%2f*~id=7795722001~data=hdntl~hmac=2a03d22b80a7db05929daa50d9fa61ef5a97dc4d14d04fb6b4443bc0f1fe9132"
     },
     {
         "id": "1130",
@@ -101,39 +125,23 @@
         "name": "Tata Play Bollywood Masala",
         "clearkey": "b39373d62f1c58d98df0f9868becd9e2:12b4d0f39dcdfa5d65102ce32dfedb7a",
         "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1924/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579577~acl=%2fbpk-tv%2firdeto_com_Channel_1924%2foutput%2f*~id=7795722001~data=hdntl~hmac=0f953dff232b486fbabc3f874d2206f7b596f2fd8d57a0f59c85f223b8d7d920"
+        "cookie": "hdntl=exp=1788589699~acl=%2fbpk-tv%2firdeto_com_Channel_1924%2foutput%2f*~id=7795722001~data=hdntl~hmac=2bb11131ecf1e1ab40b354a480fea8daae68339fc264d64affc473459fb1173b"
     },
     {
-        "id": "741",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44333-jz3hpme0-v4/imageContent-44333-jz3hpme0-m8.png",
-        "name": "Tata Play Classic Cinema",
-        "clearkey": "b28bb900985a5385acc0919a99e2881d:5c702206b1005d8a02509e459d62ed1a",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1630/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579582~acl=%2fbpk-tv%2firdeto_com_Channel_1630%2foutput%2f*~id=7795722001~data=hdntl~hmac=ee1afe1e0b86a07b590b1a08b0e5f054c8cbff14239f12eb500e2ebfc191c9e6"
+        "id": "727",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png",
+        "name": "Zee Classic",
+        "clearkey": "30d3dc0c13a051b384597bc1230d5993:96a9d076edeaa7afc377c4935d961d38",
+        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_955/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788661716~acl=%2fbpk-tv%2firdeto_com_Channel_955%2foutput%2f*~id=7795722001~data=hdntl~hmac=18a373f70aaa91679250bdd74477d1f94a28bc5857a6458637e6e7763d7dde20"
     },
     {
-        "id": "123",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11027-j8yjr8k0-v1/imageContent-11027-j8yjr8k0-m1.png",
-        "name": "Zee Cinema",
-        "clearkey": "5279eed19efe5b31923808751e15bf2f:b8c009d49f1f0e48bade1551c874dac6",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_185/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579588~acl=%2fbpk-tv%2firdeto_com_Channel_185%2foutput%2f*~id=7795722001~data=hdntl~hmac=8e339ed07374d3ab6ce84af1b1f3f0f003d3e42a4225492208060d70ff8899ac"
-    },
-    {
-        "id": "175",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31233-jli1wlvc-v1/imageContent-31233-jli1wlvc-m1.png",
-        "name": "Zee Bollywood",
-        "clearkey": "789cf63851a9569d95fabd10d9f0a80c:d99687cd5f8708b25661fb84c1a2cbdb",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_204/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579592~acl=%2fbpk-tv%2firdeto_com_Channel_204%2foutput%2f*~id=7795722001~data=hdntl~hmac=2dedcfe609a1a7ef6442e32d84da605c4ffd840b023a7cb5a356d91772909325"
-    },
-    {
-        "id": "148",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png",
-        "name": "&pictures",
-        "clearkey": "322779a4eb8a5203b65191857df90527:0c42f48dd2f3627a1887f82e1ca6f9db",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579603~acl=%2fbpk-tv%2firdeto_com_Channel_203%2foutput%2f*~id=7795722001~data=hdntl~hmac=c6ed7ca60a4463dcff77c11f3a6a4b06a703a35af48dc1a767a17daa21b132c0"
+        "id": "267",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",
+        "name": "&pictures HD",
+        "clearkey": "a6c456fea9005610ae143c8585e550b7:54cb269f7c0ca0021e18de88a96bee13",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_454/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589723~acl=%2fbpk-tv%2firdeto_com_Channel_454%2foutput%2f*~id=7795722001~data=hdntl~hmac=ab27f45f240de9a5a96ae6c1d20b4343bf4714162d4680e5ce4bf9d9269f4408"
     },
     {
         "id": "677",
@@ -141,23 +149,23 @@
         "name": "Tata Play ShortsTV",
         "clearkey": "8fa6697d80545a78b7eeeb0381ba43ff:83d2b9da057e9b89dcd687fc3c5071e2",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_902/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651607~acl=%2fbpk-tv%2firdeto_com_Channel_902%2foutput%2f*~id=7795722001~data=hdntl~hmac=4bb21280da411b4db2833006b03a5a24542901be92d7d882dda7155c546d31f0"
+        "cookie": "hdntl=exp=1788661729~acl=%2fbpk-tv%2firdeto_com_Channel_902%2foutput%2f*~id=7795722001~data=hdntl~hmac=32384d87c412d7cd3efe0454dd68d4fac6e853553065d07b2bf7b595612ab345"
     },
     {
-        "id": "100",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11024-j8yix4g8-v1/imageContent-11024-j8yix4g8-m1.png",
-        "name": "Action Cinema",
-        "clearkey": "393d8ec0cb0354d7bde916ad5fe13b55:ad0c623105a0b9049279abbe932e55a8",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_205/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579618~acl=%2fbpk-tv%2firdeto_com_Channel_205%2foutput%2f*~id=7795722001~data=hdntl~hmac=729a1019ff67a03fb694d6f11e25cb2f0baedc5f1e4995972264a3975de55704"
+        "id": "61",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png",
+        "name": "Colors Cineplex HD",
+        "clearkey": "1bc728f9dc845aabba707af7be0658eb:0cf3d19577e5c17a72f1bfda175d6e36",
+        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_385/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589734~acl=%2fbpk-tv%2firdeto_com_Channel_385%2foutput%2f*~id=7795722001~data=hdntl~hmac=38b17a25d44a64ddd3ef3252d8c5b2b41d810928b3c944d46dbadbe7fde8308b"
     },
     {
-        "id": "1003",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72254-l6dn8nco-v3/imageContent-72254-l6dn8nco-m4.png",
-        "name": "Tata Play South Talkies",
-        "clearkey": "ce7fd232a838504a90ffe0ef4b136ce2:81cb5424c2626bdeed6ff88f4f928b7d",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1829/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579623~acl=%2fbpk-tv%2firdeto_com_Channel_1829%2foutput%2f*~id=7795722001~data=hdntl~hmac=1cf5e4a48a56ecc9f284ea7647d0a0ae65c643318094183b110e3dce964919b6"
+        "id": "53",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-149-j5frd0jc-v2/imageContent-149-j5frd0jc-m2.png",
+        "name": "Colors Cineplex",
+        "clearkey": "959afc32d74b5277bdee9a0eb606d6de:83450611994855a364a98b35f5cb50c7",
+        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_384/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788661738~acl=%2fbpk-tv%2firdeto_com_Channel_384%2foutput%2f*~id=7795722001~data=hdntl~hmac=1082ada8e2c5c7fb8960abe426f0a644983df5ca82ef4e26bd1bd8f86736c9e6"
     },
     {
         "id": "1000",
@@ -165,7 +173,7 @@
         "name": "Colors Cineplex Bollywood",
         "clearkey": "57b73db0324f5c43ba6f6fa27b81bac6:525b731b308b37946fb075253f53e00f",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1827/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579637~acl=%2fbpk-tv%2firdeto_com_Channel_1827%2foutput%2f*~id=7795722001~data=hdntl~hmac=1fa04dc107b36ec2a9b50c3525775f5b532072ea48bfe63569c35c6afd573d35"
+        "cookie": "hdntl=exp=1788589759~acl=%2fbpk-tv%2firdeto_com_Channel_1827%2foutput%2f*~id=7795722001~data=hdntl~hmac=080c864e26d70bf754fa29294cc2f6bbabee0a158b8b83161629fd0365188ff7"
     },
     {
         "id": "823",
@@ -173,15 +181,7 @@
         "name": "Goldmines",
         "clearkey": "0e1248474d725556bc38748845fd4d13:aa8a2fbac3e41efceb10d26bf1db1bb3",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_1118/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651641~acl=%2fbpk-tv%2firdeto_com_Channel_1118%2foutput%2f*~id=7795722001~data=hdntl~hmac=ab65a9402c62ec5ad3d0c1bce80509ae7473815f58e0253d43c8fc882fe0b2d3"
-    },
-    {
-        "id": "731",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png",
-        "name": "Manoranjan TV",
-        "clearkey": "bd74163737fc58d887de85729d07522a:fa3b66ff6706a80642579a9458858d42",
-        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579648~acl=%2fbpk-tv%2firdeto_com_Channel_956%2foutput%2f*~id=7795722001~data=hdntl~hmac=d0016f17fc0294f0fe1bfbb08b34a14fd51ea0e82cbe741b38d8746b9a93c4d7"
+        "cookie": "hdntl=exp=1788661764~acl=%2fbpk-tv%2firdeto_com_Channel_1118%2foutput%2f*~id=7795722001~data=hdntl~hmac=b053ea8ed7d5cc9b0483f83588252e9d32f0912e371964a0bd4afd390b22ff6b"
     },
     {
         "id": "12",
@@ -189,7 +189,7 @@
         "name": "Zee Anmol Cinema 2",
         "clearkey": "b959adf57053552f99431ef53b3b4983:94a6cdf8d4bdd289e477a2fe97043882",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_380/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579652~acl=%2fbpk-tv%2firdeto_com_Channel_380%2foutput%2f*~id=7795722001~data=hdntl~hmac=d62a5d1ca46363436b8c2686335e0c95ea91b27c1fb2eef43ed810d632eab0dc"
+        "cookie": "hdntl=exp=1788589772~acl=%2fbpk-tv%2firdeto_com_Channel_380%2foutput%2f*~id=7795722001~data=hdntl~hmac=fb01b4fcd87c171fdc9c5fb1b593d1310ad6b1260d186ab1b64c30b9d366a1d5"
     },
     {
         "id": "32",
@@ -208,36 +208,44 @@
         "cookie": ""
     },
     {
+        "id": "210",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-826-j5m9kx5c-v1/imageContent-826-j5m9kx5c-m1.png",
+        "name": "MN+ HD",
+        "clearkey": "c6db394e030658fd866dd2970c90b596:1b6d0d464f632b10dfa3eb4f06c7a04b",
+        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589788~acl=%2fbpk-tv%2firdeto_com_Channel_259%2foutput%2f*~id=7795722001~data=hdntl~hmac=4307d8640be9911bff1caf5e9521b3d694eab28ce7e6a5475af1594e54dbac43"
+    },
+    {
         "id": "599",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png",
         "name": "MNX HD",
         "clearkey": "fd35dd47a908574b9b154aaef83284d3:4dfe810f7348318d32b4535cd0a3dbf4",
         "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579671~acl=%2fbpk-tv%2firdeto_com_Channel_636%2foutput%2f*~id=7795722001~data=hdntl~hmac=5d26e9a63c59f2d809bca6cf00d860894ec7d9b4f5a95fd3395d179baf29b1e1"
+        "cookie": "hdntl=exp=1788589792~acl=%2fbpk-tv%2firdeto_com_Channel_636%2foutput%2f*~id=7795722001~data=hdntl~hmac=606732ccbdc7ff6b59fdae72eeebbf181dec63eb60f01d601bf361cf2abddef5"
     },
     {
-        "id": "223",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png",
-        "name": "DD Sports",
-        "clearkey": "f0ca27b4509b596f843e8c182517971f:214b7fa87c1463476b24fd7dcefd42d2",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_146/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579675~acl=%2fbpk-tv%2firdeto_com_Channel_146%2foutput%2f*~id=7795722001~data=hdntl~hmac=9c2bcbcbeac39eafee8a87fcd4aba1c545b8aa129ea77fc08dfc32d9b0575246"
+        "id": "246",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",
+        "name": "Star Sports Select 1 HD",
+        "clearkey": "a7641523ac8758e3b1e0df228719e145:5718543676df110d4b457725b7ab56ec",
+        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589811~acl=%2fbpk-tv%2firdeto_com_Channel_413%2foutput%2f*~id=7795722001~data=hdntl~hmac=3a74d0043a44035efeb13993cdc2c9bbf50a635fee48f51696d9ca3a73324731"
     },
     {
-        "id": "1033",
-        "logo": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/Star Sports 2 Hindi HD_Thumbnail_7b031415-8d1d-4c5d-a3f8-a2315faa5e4e.png",
-        "name": "Star Sports 2 Hindi HD",
-        "clearkey": "192dd5f0779d5983a3aa18276a9fb719:b372ee0b282e2bcaad31702289cb338f",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1852/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579688~acl=%2fbpk-tv%2firdeto_com_Channel_1852%2foutput%2f*~id=7795722001~data=hdntl~hmac=f33f318616a13dd6b711c8ca19df8f986888654dde33a0c64eceb24be24592c8"
+        "id": "693",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35309-jqxwmcq0-v4/imageContent-35309-jqxwmcq0-m4.png",
+        "name": "Eurosport",
+        "clearkey": "455d533d69f35c35aa0853e6212bc2e7:9c37476f7d577509aa6af2f5ce09c917",
+        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_935/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589825~acl=%2fbpk-tv%2firdeto_com_Channel_935%2foutput%2f*~id=7795722001~data=hdntl~hmac=a271e75587928644fce401789b28509568edda68dc964c4818a2d72be6f8e2d9"
     },
     {
-        "id": "812",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",
-        "name": "Eurosport HD",
-        "clearkey": "ccaf3c1207e2565085abb5ecdb238bd9:d69e6d34b020902444743fe58d8262c9",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1109/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579696~acl=%2fbpk-tv%2firdeto_com_Channel_1109%2foutput%2f*~id=7795722001~data=hdntl~hmac=377610b3ed36c6f2a5898ab5957d18c6e361c75a1559fc9b134893ef37fa97dd"
+        "id": "783",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png",
+        "name": "Tata Play Seniors",
+        "clearkey": "43ce1e7d69025331b0c9ee786876e29f:894ca434fc6f1b96a00443b083835a4b",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589830~acl=%2fbpk-tv%2firdeto_com_Channel_974%2foutput%2f*~id=7795722001~data=hdntl~hmac=584955444aa3d7595eddc628089b3ae884af5390765bcad6b4bfd3a7e0796c17"
     },
     {
         "id": "179",
@@ -245,7 +253,7 @@
         "name": "NDTV India",
         "clearkey": "6eacc4216bdd57a8831a2cac38de669b:9c1a96162fdc5c97eece8900a0bdf3f2",
         "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_104/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579720~acl=%2fbpk-tv%2firdeto_com_Channel_104%2foutput%2f*~id=7795722001~data=hdntl~hmac=66d7194f9766168a938e9ee718ec74bda500e2c36243afcfdf114828fae0b7c9"
+        "cookie": "hdntl=exp=1788589834~acl=%2fbpk-tv%2firdeto_com_Channel_104%2foutput%2f*~id=7795722001~data=hdntl~hmac=213c7c65fc9717559160b2e05c3fa14965db77145014ba349dddc36a00e2aea5"
     },
     {
         "id": "514",
@@ -253,23 +261,31 @@
         "name": "Zee Bharat",
         "clearkey": "bd9a16bd60d9566983dfd48ab8bab90f:f95c82b41afc62f7d1eab7a70e8b1860",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_840/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651724~acl=%2fbpk-tv%2firdeto_com_Channel_840%2foutput%2f*~id=7795722001~data=hdntl~hmac=bee9e68a7f03137d4c7fa24f5ce9fe4dcc64dccf115983632baf67e0e3ae79b2"
+        "cookie": "hdntl=exp=1788661838~acl=%2fbpk-tv%2firdeto_com_Channel_840%2foutput%2f*~id=7795722001~data=hdntl~hmac=52a4500dc096380feaa649f57d294c6d3db5804d605a3218e814c9e5942bca2e"
     },
     {
-        "id": "433",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",
-        "name": "Nick HD+",
-        "clearkey": "d45505e1ed36506ca72b39eda106d33f:3933cbbc42fdd9b1f783de394da1a52d",
-        "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579741~acl=%2fbpk-tv%2firdeto_com_Channel_663%2foutput%2f*~id=7795722001~data=hdntl~hmac=a20a8b64e437347d27b23a9f17f9d1f6779d612d1563bfdba0912d75d012aaf4"
+        "id": "696",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35599-jrm11j9c-v1/imageContent-35599-jrm11j9c-m1.PNG",
+        "name": "R Bharat",
+        "clearkey": "c31706531d145057b87f49b25c93db2e:e852693d75d6a30019e6829517435424",
+        "mpd": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
+        "cookie": ""
     },
     {
-        "id": "626",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13094-jbdzlsfs-v2/imageContent-13094-jbdzlsfs-m2.png",
-        "name": "Tata Play Fun Learn Preschool",
-        "clearkey": "73b748f4c3c957aabcae4c9e0e722da1:53bd935ff820ce916bfea7fcb10ef87c",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_860/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579747~acl=%2fbpk-tv%2firdeto_com_Channel_860%2foutput%2f*~id=7795722001~data=hdntl~hmac=90504b4f6e14c83fba64d45f8e4cf07745bed38ba6376d0e5e8246e3d17b32f7"
+        "id": "706",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png",
+        "name": "TV9 Bharatvarsh",
+        "clearkey": "e12255ed8c0c592d856abf342a003842:0a3e3ac5fe605d562bc6206ee8df3c3d",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_945/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589852~acl=%2fbpk-tv%2firdeto_com_Channel_945%2foutput%2f*~id=7795722001~data=hdntl~hmac=e84959f1321492e4085699ceefa540d18915f1d4fb61b84ba9714c8c3eefe0cf"
+    },
+    {
+        "id": "848",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56488-kfgbqzso-v3/imageContent-56488-kfgbqzso-m5.png",
+        "name": "Network 10",
+        "clearkey": "73d4f71fa99156a79a8b8d6d0b9c126c:940737bd671d2ac7ed1ee638dd6e905b",
+        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_1136/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788661856~acl=%2fbpk-tv%2firdeto_com_Channel_1136%2foutput%2f*~id=7795722001~data=hdntl~hmac=b4719a0de2919fec295686d7aab2bceb46b4fe408a7cb6dc6099ddbb3dc67b52"
     },
     {
         "id": "627",
@@ -277,7 +293,7 @@
         "name": "Tata Play Fun Learn Junior",
         "clearkey": "9074ef894b455e25b289f43e59fbce4d:3bbf1d3972c464e8f6af3c726d6e71c2",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579751~acl=%2fbpk-tv%2firdeto_com_Channel_861%2foutput%2f*~id=7795722001~data=hdntl~hmac=9a1b1b365f96ab63724b8d0ede2777a6d951e99f7ac686fc0278fa886da0be88"
+        "cookie": "hdntl=exp=1788589871~acl=%2fbpk-tv%2firdeto_com_Channel_861%2foutput%2f*~id=7795722001~data=hdntl~hmac=d383d7f94f382905a9051c61b98632755869fe542d61b6333a4e94f950b84f06"
     },
     {
         "id": "681",
@@ -285,7 +301,7 @@
         "name": "Cartoon Network HD+",
         "clearkey": "f581424c14e35eee924f0a0b9d22c81c:3553f635fdb1b3f006d9aeb8ed7341eb",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579757~acl=%2fbpk-tv%2firdeto_com_Channel_925%2foutput%2f*~id=7795722001~data=hdntl~hmac=5338c5f99a6554071369a03c0aec8d5d5f69e8ca04580ad41eb1bb5e2ff797d1"
+        "cookie": "hdntl=exp=1788589875~acl=%2fbpk-tv%2firdeto_com_Channel_925%2foutput%2f*~id=7795722001~data=hdntl~hmac=ca6bccaa7bec56b1b7f733c8a08309d251c8b0a5891ace89c46e5136daefbb11"
     },
     {
         "id": "238",
@@ -293,7 +309,7 @@
         "name": "Cartoon Network",
         "clearkey": "37da44b2890a5445bae74e315802850c:85aef421289081f788d821782023e911",
         "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_405/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579761~acl=%2fbpk-tv%2firdeto_com_Channel_405%2foutput%2f*~id=7795722001~data=hdntl~hmac=05788c6b6e3b5950e2aeda73b023850bb0e8e77a748d40ef1e0af308c14a4258"
+        "cookie": "hdntl=exp=1788589880~acl=%2fbpk-tv%2firdeto_com_Channel_405%2foutput%2f*~id=7795722001~data=hdntl~hmac=f9a29bc11dc3cd6cfe28be46fb34bddebd4fe83ae7bc2ed31910b0094afcf6c3"
     },
     {
         "id": "239",
@@ -301,7 +317,7 @@
         "name": "Pogo",
         "clearkey": "01788c60ef0d5e7abb23d69527fad4cb:cf2c74d68a086f069201e47729c603b7",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_406/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651765~acl=%2fbpk-tv%2firdeto_com_Channel_406%2foutput%2f*~id=7795722001~data=hdntl~hmac=94a83df8e8ea17cd9ed7cc78f1e78673122373bf4c3fbb85e6b0afbca46c8f49"
+        "cookie": "hdntl=exp=1788661884~acl=%2fbpk-tv%2firdeto_com_Channel_406%2foutput%2f*~id=7795722001~data=hdntl~hmac=2ee32aec188398faef7e0c5cb2d47b91c148e7cb4829d80355d470422074b18d"
     },
     {
         "id": "119",
@@ -309,7 +325,7 @@
         "name": "Discovery Kids",
         "clearkey": "4fb04a8b851b5b90b14b5400640ec533:9ce13b6d2fecd2c9f9899232163a41d9",
         "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_130/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579769~acl=%2fbpk-tv%2firdeto_com_Channel_130%2foutput%2f*~id=7795722001~data=hdntl~hmac=841521f72809ed3e23d048a6d221aac7b85c825dcfaf7acbb54181d4025a59e6"
+        "cookie": "hdntl=exp=1788589889~acl=%2fbpk-tv%2firdeto_com_Channel_130%2foutput%2f*~id=7795722001~data=hdntl~hmac=5124e9cc0c36deac7e0529e466e3f6c8d91118fc19662a497b2c7b88f3b32e92"
     },
     {
         "id": "127",
@@ -317,7 +333,7 @@
         "name": "Sonic",
         "clearkey": "966ce4ee21745f4bb811fcf61e76aefd:dc81ea8e682e5bf2f20c6538a941df1c",
         "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_169/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579774~acl=%2fbpk-tv%2firdeto_com_Channel_169%2foutput%2f*~id=7795722001~data=hdntl~hmac=27f9525ed3c1e25a448cdeb246dd782af10de646bbf652741feec7753921e3f0"
+        "cookie": "hdntl=exp=1788589894~acl=%2fbpk-tv%2firdeto_com_Channel_169%2foutput%2f*~id=7795722001~data=hdntl~hmac=862e0b41a2393880a157ae43e06572f0ad9eb1eb5693a77026f91d689026d577"
     },
     {
         "id": "867",
@@ -325,7 +341,7 @@
         "name": "Gubbare",
         "clearkey": "413a414b01f5516888a210ca9f27ee63:cb668f72eedce99c2de68950c5572f63",
         "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579780~acl=%2fbpk-tv%2firdeto_com_Channel_1143%2foutput%2f*~id=7795722001~data=hdntl~hmac=b343c27225b2796dc2e6a405dd52a6707be58c48c0e03749c7c7bf5878fe35b9"
+        "cookie": "hdntl=exp=1788589900~acl=%2fbpk-tv%2firdeto_com_Channel_1143%2foutput%2f*~id=7795722001~data=hdntl~hmac=5d0687fb9fde42f475f3298ee6c3d3990b17cbfd85ab0132b5c6b4ce75142013"
     },
     {
         "id": "118",
@@ -333,31 +349,15 @@
         "name": "Nick Jr",
         "clearkey": "ac57647f8b5a510a8beb537e9132c860:82ac98801102664354ec503b9045748d",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651784~acl=%2fbpk-tv%2firdeto_com_Channel_168%2foutput%2f*~id=7795722001~data=hdntl~hmac=8648a80bfbdcb863af073b6a9b41b1df26990437786b0a2a9170a0e6013db8c5"
+        "cookie": "hdntl=exp=1788661905~acl=%2fbpk-tv%2firdeto_com_Channel_168%2foutput%2f*~id=7795722001~data=hdntl~hmac=6a12b1bfccce27e0496c5d7af9dc5a101d3110dd7bccafd23821391875325311"
     },
     {
-        "id": "219",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-876-j5mcolzc-v2/imageContent-876-j5mcolzc-m2.png",
-        "name": "Discovery Channel",
-        "clearkey": "82ef16e716555c93a67542fbb642b9fa:3bbe5c67a862dfbc20d978a4cb2b3f99",
-        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_128/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579798~acl=%2fbpk-tv%2firdeto_com_Channel_128%2foutput%2f*~id=7795722001~data=hdntl~hmac=28d1a55c97662e746f5f63f967e279c869a619ceb2445bda66f58015e4e3f8e9"
-    },
-    {
-        "id": "287",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44915-jzuyh3w0-v1/imageContent-44915-jzuyh3w0-m1.png",
-        "name": "Animal Planet HD World",
-        "clearkey": "2f43c71dda015c63a1f7b53bda6c0120:219061dfa01106e1b6de0582da2366cb",
-        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579802~acl=%2fbpk-tv%2firdeto_com_Channel_457%2foutput%2f*~id=7795722001~data=hdntl~hmac=88811fc8ebda2e36864a95086f5ba1c624a5b3f91a3b3cb758bf95e13d9a691f"
-    },
-    {
-        "id": "130",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-432-j5jsx754-v4/imageContent-432-j5jsx754-m4.png",
-        "name": "Animal Planet",
-        "clearkey": "2f9452d01012567a9fc86bd160955e68:1311c77e7276a165b1a921344dd41738",
-        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579807~acl=%2fbpk-tv%2firdeto_com_Channel_129%2foutput%2f*~id=7795722001~data=hdntl~hmac=7ef6b1f0d77447d2bd86de36f539cd92dc4b253ce00760297663122ba5602cb4"
+        "id": "816",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52868-k9af4lxs-v1/imageContent-52868-k9af4lxs-m1.png",
+        "name": "CBeeBies",
+        "clearkey": "973a107547b55b7ca288d93bd56013bb:79afb6946c4ec39f464e9048c3e3ab0e",
+        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1112/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589909~acl=%2fbpk-tv%2firdeto_com_Channel_1112%2foutput%2f*~id=7795722001~data=hdntl~hmac=393212e051c99935c834328ea793765a1e7c005774cf4a67709b58a0f98edf9a"
     },
     {
         "id": "460",
@@ -368,12 +368,28 @@
         "cookie": ""
     },
     {
+        "id": "158",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SOBB_Thumbnail-v6/SOBB_Thumbnail.png",
+        "name": "SONY BBC Earth",
+        "clearkey": "9b5424ce88395495af266140da0bbd63:8c8dd568d1ede15d2f4722a360a29f59",
+        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_400/output/manifest.mpd",
+        "cookie": ""
+    },
+    {
+        "id": "126",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/EPI_Thumbnail-v2/EPI_Thumbnail.png",
+        "name": "EPIC",
+        "clearkey": "ea55c9de88f75ec48fa660b696477103:4b6ee3e3b3a8782367222f53e6fe9355",
+        "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589945~acl=%2fbpk-tv%2firdeto_com_Channel_194%2foutput%2f*~id=7795722001~data=hdntl~hmac=ac261d7a23c93ca29b9e485ee4d8cf3c2d3fa446c4efbad8666ef796e3eeb9d5"
+    },
+    {
         "id": "135",
         "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png",
         "name": "TLC",
         "clearkey": "7abaeea182ea5b7f921082de11567a0c:e82c332d97c90a7263187f6782e7201e",
         "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579827~acl=%2fbpk-tv%2firdeto_com_Channel_127%2foutput%2f*~id=7795722001~data=hdntl~hmac=af08d1e260f145508bab59b1982d6f92f05f3240a58b8435d092a3a965ca4438"
+        "cookie": "hdntl=exp=1788589951~acl=%2fbpk-tv%2firdeto_com_Channel_127%2foutput%2f*~id=7795722001~data=hdntl~hmac=06755d752e4dfba7f3f37cc677440786d34d7b4992e4b524180fed555ec05652"
     },
     {
         "id": "228",
@@ -381,63 +397,31 @@
         "name": "Discovery Turbo",
         "clearkey": "ea90862c38225601bc485c6b58c7970a:0786cbf259ac96e5bb17ea882f19121b",
         "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_145/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579831~acl=%2fbpk-tv%2firdeto_com_Channel_145%2foutput%2f*~id=7795722001~data=hdntl~hmac=3c5aa4ce94a9573f5de2d62eeb5172e90f6c918ebf3002a4466fcb884129fcc7"
+        "cookie": "hdntl=exp=1788589955~acl=%2fbpk-tv%2firdeto_com_Channel_145%2foutput%2f*~id=7795722001~data=hdntl~hmac=7bff8fc27d6d3670f7d0d2ea4ab32c2b6814b8fd9f894e9e163f8d71afca565b"
     },
     {
-        "id": "55",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-157-j5frd4e8-v1/imageContent-157-j5frd4e8-m1.png",
-        "name": "Travelxp",
-        "clearkey": "279cc371445c54738d97303c19b76676:3a5169ed45b1f90b7f697e85d511a147",
-        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_366/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579837~acl=%2fbpk-tv%2firdeto_com_Channel_366%2foutput%2f*~id=7795722001~data=hdntl~hmac=9220d0b90bd79f37ba2d1a12cfbb730c61a2957d37b41615570a161c6a1d71aa"
+        "id": "227",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-959-j5mipsnk-v1/imageContent-959-j5mipsnk-m1.png",
+        "name": "Fashion TV",
+        "clearkey": "3e7cadfea7e75511a1c94e10fff159be:08fd9a6039117a91380058849b952cac",
+        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_404/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788661966~acl=%2fbpk-tv%2firdeto_com_Channel_404%2foutput%2f*~id=7795722001~data=hdntl~hmac=a3fa1b2773107718f0470500a960727e83257a99fa39592892c77aed348e67e8"
     },
     {
-        "id": "139",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-468-j5jwdbi8-v1/imageContent-468-j5jwdbi8-m1.png",
-        "name": "9XM",
-        "clearkey": "00fbeecf80075f3884b8fc5a65f08710:ef04c2fd067aef77c2674b6e68e5c11b",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_201/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579855~acl=%2fbpk-tv%2firdeto_com_Channel_201%2foutput%2f*~id=7795722001~data=hdntl~hmac=38535609301ed70d1665d05b7b775766593b1afcb978ec29b62fb8771f51d431"
+        "id": "735",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44321-jz2zb8pk-v3/imageContent-44321-jz2zb8pk-m3.png",
+        "name": "Tata Play Ibaadat",
+        "clearkey": "f16f8ab0e5695e1988e8c5f160074478:75a965fa24d45dd7a38e182d30cd030a",
+        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1632/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589970~acl=%2fbpk-tv%2firdeto_com_Channel_1632%2foutput%2f*~id=7795722001~data=hdntl~hmac=f4c02156e0220829857a89ec360f99f8cc7e975dab7f2276bcc98d380fb9cb0e"
     },
     {
-        "id": "96",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24696-jgrq09a8-v1/imageContent-24696-jgrq09a8-m1.png",
-        "name": "Zoom",
-        "clearkey": "3a7b1705d4ee5eb6a9a3f6546e5d3fb4:c8649f8481fc0aabd3de734572ce8e0b",
-        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_164/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579859~acl=%2fbpk-tv%2firdeto_com_Channel_164%2foutput%2f*~id=7795722001~data=hdntl~hmac=1a0c113ad1662226cfda74db7f8e8ff8361a5ab0967905b3752706e188f59be8"
-    },
-    {
-        "id": "9",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png",
-        "name": "B4U Music",
-        "clearkey": "ba38f0082ca0593dacf6310ce4c83dfc:a810680d5b5a6d0c4ed528e0dcb0004b",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_277/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579866~acl=%2fbpk-tv%2firdeto_com_Channel_277%2foutput%2f*~id=7795722001~data=hdntl~hmac=32c2c8a27ba49836d3d41be3d1ceec5c6ec6cf2f2cf8d71d58329635897c9ad2"
-    },
-    {
-        "id": "517",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11993-j9luua9c-v1/imageContent-11993-j9luua9c-m1.png",
-        "name": "Zing",
-        "clearkey": "31e5aaabadd058219a9dcfd569df359d:5d0a77e0dbdd7e286f6be137f1da1035",
-        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_843/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579871~acl=%2fbpk-tv%2firdeto_com_Channel_843%2foutput%2f*~id=7795722001~data=hdntl~hmac=cb4dbea86c76744f7d7650ce5343686cf691ab2a15caf6edc23d0f024fb38d33"
-    },
-    {
-        "id": "733",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Showbox_Thumbnail-v2/Showbox_Thumbnail.png",
-        "name": "Showbox",
-        "clearkey": "66b23e45fc7258c1998f46feba42b026:24b4c57bf56096f2d4f6f6762273122a",
-        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_961/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651875~acl=%2fbpk-tv%2firdeto_com_Channel_961%2foutput%2f*~id=7795722001~data=hdntl~hmac=b585d56ec02408e147481bda67dc346b464963fafd0a76259a4b4195fd069479"
-    },
-    {
-        "id": "38",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-105-j5fl5t1k-v1/imageContent-105-j5fl5t1k-m1.png",
-        "name": "Aastha",
-        "clearkey": "630ac005fbef5798b8e0777be1888472:bf77265780d143acc433042e6f4aa5b6",
-        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_341/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651879~acl=%2fbpk-tv%2firdeto_com_Channel_341%2foutput%2f*~id=7795722001~data=hdntl~hmac=34554c630d8530abc095619810d44d2451bcab9ff1cee369a48786223e5dab15"
+        "id": "406",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png",
+        "name": "MTV HD",
+        "clearkey": "964c9bfefeec55779ae3434bee89e737:ec5e5ede292b1ed7965fe789d8463571",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_638/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788589975~acl=%2fbpk-tv%2firdeto_com_Channel_638%2foutput%2f*~id=7795722001~data=hdntl~hmac=39e6f923686f84db433cc7eadba622fdfcc9bcda9d359d332247bec3e805292d"
     },
     {
         "id": "43",
@@ -445,7 +429,7 @@
         "name": "Sanskar",
         "clearkey": "440b6d31cabf5214a9b71e2891a2cd40:a14d85658b23b45f0e5dfbc1a93931b4",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_342/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651883~acl=%2fbpk-tv%2firdeto_com_Channel_342%2foutput%2f*~id=7795722001~data=hdntl~hmac=e731fe8026de8ee734c17aad2c1b0fc40f9a1feb26521745c334eef623c71a39"
+        "cookie": "hdntl=exp=1788661999~acl=%2fbpk-tv%2firdeto_com_Channel_342%2foutput%2f*~id=7795722001~data=hdntl~hmac=1a6d1eeeaaa7759484a3c1a8291aa369c5cb0c352595e584372acd7afdcaa7f2"
     },
     {
         "id": "446",
@@ -453,7 +437,7 @@
         "name": "Paras Gold One",
         "clearkey": "17e646ac26ce51d1b8eee16c6dc2d713:37a4eb4dfe27320fc9867ff2fb378091",
         "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_669/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579887~acl=%2fbpk-tv%2firdeto_com_Channel_669%2foutput%2f*~id=7795722001~data=hdntl~hmac=6f6a4fb2ab8ab0107fab0882e3f01ebd5a6c5ef0338517d884ba2407b6ece3c5"
+        "cookie": "hdntl=exp=1788590004~acl=%2fbpk-tv%2firdeto_com_Channel_669%2foutput%2f*~id=7795722001~data=hdntl~hmac=b0b84832c986298f8943611aea57c936fd765d9d08513082682a580b0ec97a76"
     },
     {
         "id": "338",
@@ -461,7 +445,7 @@
         "name": "DD Urdu",
         "clearkey": "0001cf94fc8852f3a87d6b43683ff481:587ae89d4b1a4f25d45289e1fb9eb403",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_524/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579891~acl=%2fbpk-tv%2firdeto_com_Channel_524%2foutput%2f*~id=7795722001~data=hdntl~hmac=6672ab02a803dc70350ddfdacd90d0ae89f22920a3982846a215caee8f58ef67"
+        "cookie": "hdntl=exp=1788590008~acl=%2fbpk-tv%2firdeto_com_Channel_524%2foutput%2f*~id=7795722001~data=hdntl~hmac=820a06235687c28b4a2eda438c062ec2bc2058263407d8a810a53582d4ae6e72"
     },
     {
         "id": "308",
@@ -469,7 +453,7 @@
         "name": "Colors Marathi HD",
         "clearkey": "32980ac34f9e573aab7812156db1ef94:d07e57ae90d61aac0371940d3d37c16c",
         "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_491/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579895~acl=%2fbpk-tv%2firdeto_com_Channel_491%2foutput%2f*~id=7795722001~data=hdntl~hmac=4bf201218d07aa8828f025603dcf7dc506e552a99bb6be96f63cc62da9a86c52"
+        "cookie": "hdntl=exp=1788590013~acl=%2fbpk-tv%2firdeto_com_Channel_491%2foutput%2f*~id=7795722001~data=hdntl~hmac=4b95e2aa89ac1c8186393bf36da29485a4f3621adecffd64e851957c76dd3b5e"
     },
     {
         "id": "134",
@@ -477,63 +461,15 @@
         "name": "Colors Marathi",
         "clearkey": "1161e493efe85457b0d8cf674ab6e372:db2b05a6a1e2979e86a158b0a1b23b0e",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_230/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579899~acl=%2fbpk-tv%2firdeto_com_Channel_230%2foutput%2f*~id=7795722001~data=hdntl~hmac=582485ccc7ceab60512e042a83e2db6cbb4217899ecde808c0160977f5489289"
+        "cookie": "hdntl=exp=1788590018~acl=%2fbpk-tv%2firdeto_com_Channel_230%2foutput%2f*~id=7795722001~data=hdntl~hmac=c0a11a46bb79a3e899753d2f7e20e5799c753ef2648bab4d78bd041438cb488d"
     },
     {
-        "id": "501",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11930-j9l5hv1c-v1/imageContent-11930-j9l5hv1c-m1.png",
-        "name": "Zee Marathi HD",
-        "clearkey": "6661e4f4410f50449e3579e3be3fd7d7:106d5633eddbdb4f0edb1db939332138",
-        "mpd": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_836/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579904~acl=%2fbpk-tv%2firdeto_com_Channel_836%2foutput%2f*~id=7795722001~data=hdntl~hmac=f40ae6c07edda35ecba75640938db4890089bcef93b4e93ad36b000ea1cad36f"
-    },
-    {
-        "id": "658",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30959-jky1nic8-v2/imageContent-30959-jky1nic8-m3.png",
-        "name": "Sony Marathi",
-        "clearkey": "f32bf5a269ec57f1bb1b6900755b0a5a:5de47e872920c110ec9c58d1e5bca50e",
-        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_892/output/manifest.mpd",
-        "cookie": ""
-    },
-    {
-        "id": "515",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11987-j9lura8g-v1/imageContent-11987-j9lura8g-m1.png",
-        "name": "Zee Talkies HD",
-        "clearkey": "fd205a831c925a5d879da3124b1bbe35:15c2900dee70534e5c7ba6441b603d01",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_841/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579918~acl=%2fbpk-tv%2firdeto_com_Channel_841%2foutput%2f*~id=7795722001~data=hdntl~hmac=91bba0a47457006d5c4e48c5665cd019fc515a8f0de40eb49ccf01f75e019323"
-    },
-    {
-        "id": "249",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8842-j7pp0me8-v2/imageContent-8842-j7pp0me8-m2.png",
-        "name": "Zee Talkies",
-        "clearkey": "c26a9e3181a9511eb3a6bc352dee7027:2bd8620be5c506c9613ac405ec23d998",
-        "mpd": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_425/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579922~acl=%2fbpk-tv%2firdeto_com_Channel_425%2foutput%2f*~id=7795722001~data=hdntl~hmac=49778ba59150e91fd95f64e97c13e01f8b6eeeda3f6b947d122e08d990764486"
-    },
-    {
-        "id": "192",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-801-j5m7jg34-v2/imageContent-801-j5m7jg34-m2.png",
-        "name": "Fakt Marathi",
-        "clearkey": "91109bca703c5f54a30361463bf74831:6d81ffcd6740cc9df64867e674757807",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_231/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579926~acl=%2fbpk-tv%2firdeto_com_Channel_231%2foutput%2f*~id=7795722001~data=hdntl~hmac=3e997daf8ad83d9e479a7c196b76fa08bca35a02b2837910267110acaeec5fb6"
-    },
-    {
-        "id": "800",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49025-k5lxf84o-v2/imageContent-49025-k5lxf84o-m2.png",
-        "name": "Shemaroo MarathiBana",
-        "clearkey": "32668a1fac89583886b8dab72c77ee25:d900c218fc37b2cce11c62aed9e4e9fb",
-        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_991/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579930~acl=%2fbpk-tv%2firdeto_com_Channel_991%2foutput%2f*~id=7795722001~data=hdntl~hmac=24a80341a585abef3e4cebfdf69dea928a5550f96471e63d437b1d6399bf5131"
-    },
-    {
-        "id": "999",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSMAR_Thumbnail-v10/TONSMAR_Thumbnail.png",
-        "name": "Tata Play Toons+",
-        "clearkey": "ffdec1edfce0432ba38dc523a1ccfd99:dfb153ae7851be2daa7e983c9c6553eb",
-        "mpd": "https://delta14tatasky.akamaized.net/out/i/7253194.mpd",
-        "cookie": ""
+        "id": "248",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11136-j96p4r28-v1/imageContent-11136-j96p4r28-m1.png",
+        "name": "Zee YUVA",
+        "clearkey": "5ad04577158b5ad0acab8db5bf33a75a:7fd90d564170f55ae138dadb06f53493",
+        "mpd": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_426/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788590029~acl=%2fbpk-tv%2firdeto_com_Channel_426%2foutput%2f*~id=7795722001~data=hdntl~hmac=9776a9f866ff2ca7f7f0d636128c1c758fdc562bda4831eb5d3c8a37d303fd21"
     },
     {
         "id": "217",
@@ -541,7 +477,23 @@
         "name": "Sangeet Marathi",
         "clearkey": "a2f8d2e2e1125390963368d343992047:006c5ef5b33353b3bf08ba226b7265fd",
         "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_363/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651938~acl=%2fbpk-tv%2firdeto_com_Channel_363%2foutput%2f*~id=7795722001~data=hdntl~hmac=cf9ed7372776837b1893b9b0d87dd15f114cb69bd93bf0016d927cca7a624b32"
+        "cookie": "hdntl=exp=1788662060~acl=%2fbpk-tv%2firdeto_com_Channel_363%2foutput%2f*~id=7795722001~data=hdntl~hmac=0983851ae5709899e8bd963fe85d5b11fdb6c267afa392bef01e3fabc2f7e5c8"
+    },
+    {
+        "id": "305",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png",
+        "name": "Colors Bangla HD",
+        "clearkey": "9cdbb87e83c652578ad941322dd0aa2f:7368dc8a7a8fcf77a065c1b93df32374",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_489/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788590065~acl=%2fbpk-tv%2firdeto_com_Channel_489%2foutput%2f*~id=7795722001~data=hdntl~hmac=4ba652a3f3620eee300455341a6143f818940427501d1bf8173cca9ecfd897f0"
+    },
+    {
+        "id": "522",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png",
+        "name": "Zee Bangla HD",
+        "clearkey": "46b028eb40cc5e94a6fe97e1f096ca99:b096cecab89be3b05fa1836ebc5d55f7",
+        "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_834/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788590069~acl=%2fbpk-tv%2firdeto_com_Channel_834%2foutput%2f*~id=7795722001~data=hdntl~hmac=172a2a913a6cc0cddc2338b20cf1ad5088bc46a855a0b550a3e9f87bad0e174e"
     },
     {
         "id": "468",
@@ -549,7 +501,7 @@
         "name": "Star Jalsha HD",
         "clearkey": "52e49084f4e75343b9083db013c0d404:6fa825f105371f818616901b93f35c39",
         "mpd": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_736/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579946~acl=%2fbpk-tv%2firdeto_com_Channel_736%2foutput%2f*~id=7795722001~data=hdntl~hmac=77df2080ff6294f6153713c5566e1a133e2799b9ccaad73d58c33a1e9afe642e"
+        "cookie": "hdntl=exp=1788590074~acl=%2fbpk-tv%2firdeto_com_Channel_736%2foutput%2f*~id=7795722001~data=hdntl~hmac=824e869964d8e85465b8932626c74ad81fed815d2df0b60bb1a922e4b23b312b"
     },
     {
         "id": "34",
@@ -565,14 +517,22 @@
         "name": "Tata Play Toons+",
         "clearkey": "4edec741347853839fe97a732e505825:d8551f35e8bc3833d24916d55b76c7a4",
         "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1823/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788579955~acl=%2fbpk-tv%2firdeto_com_Channel_1823%2foutput%2f*~id=7795722001~data=hdntl~hmac=a56fff28a7d2d12820a2ea771c1d2f211e5da897b0cdacdf381817fbe775b44f"
+        "cookie": "hdntl=exp=1788590083~acl=%2fbpk-tv%2firdeto_com_Channel_1823%2foutput%2f*~id=7795722001~data=hdntl~hmac=87edfba18be0373cd6dc6c6bd8b0e04a22a78c4849c31f4fd03ca7067e19ae9e"
     },
     {
-        "id": "129",
-        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-267-j5j8x17s-v1/imageContent-267-j5j8x17s-m2.png",
-        "name": "Aakaash Aath",
-        "clearkey": "252bcb79d2ee505588c8ecaffddf03c1:62ec5d8a5885f3c666ce7185f54cb145",
-        "mpd": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_210/output/manifest.mpd",
-        "cookie": "hdntl=exp=1788651959~acl=%2fbpk-tv%2firdeto_com_Channel_210%2foutput%2f*~id=7795722001~data=hdntl~hmac=6f208fd375f1bc3437496444054d3388af6ad1045ffa411b147a2b35288386dc"
+        "id": "788",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48494-k3zd1a80-v1/imageContent-48494-k3zd1a80-m4.png",
+        "name": "Enterr10 Bangla",
+        "clearkey": "27c72f370afa5ad9aea3f0abeb498d29:cefca92908b0d384f175a574e0f36125",
+        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_978/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788590093~acl=%2fbpk-tv%2firdeto_com_Channel_978%2foutput%2f*~id=7795722001~data=hdntl~hmac=c6b28cfb29275fe82dfc08da0fb88742da1792657ee7d7eb0f86c1902435af3e"
+    },
+    {
+        "id": "537",
+        "logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png",
+        "name": "Jalsha Movies HD",
+        "clearkey": "408595b72cba5a45b7c0afa142c41d93:778c2475628b8c5ee986c078a1cc3054",
+        "mpd": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_583/output/manifest.mpd",
+        "cookie": "hdntl=exp=1788590097~acl=%2fbpk-tv%2firdeto_com_Channel_583%2foutput%2f*~id=7795722001~data=hdntl~hmac=af55a7f04cc84107003d3dbc66f3c2021b38bb6c6cfb78893b775988e52515dc"
     }
 ]
